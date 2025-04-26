@@ -1,0 +1,6 @@
+{
+  "selectLangauge": "Select Langauge",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}

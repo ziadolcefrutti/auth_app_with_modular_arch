@@ -1,0 +1,9 @@
+{
+  "hello": "Merhaba",
+  "welcome": "Hoş geldiniz",
+  "selectLangauge": "Dil Seç",
+  "logout": "Çıkış yap",
+  "areYouSureLogout": "Çıkış yapmak istediğinize emin misiniz?",
+  "cancel": "İptal",
+  "confrim": "Onayla"
+}

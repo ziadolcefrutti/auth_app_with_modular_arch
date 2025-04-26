@@ -1,0 +1,9 @@
+{
+  "hello": "Hola",
+  "welcome": "Bienvenido",
+  "selectLangauge": "Seleccione Idioma",
+  "logout":"cerrar sesión",
+  "areYouSureLogout":"¿Estás segura de que quieres cerrar sesión?",
+  "cancel":"Cancelar",
+  "confrim":"confirmar"
+}

@@ -1,0 +1,9 @@
+{
+  "hello": "مرحبا",
+  "welcome": "أهلا بك",
+  "selectLangauge": "اختر اللغة",
+  "logout": "تسجيل الخروج",
+  "areYouSureLogout": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+  "cancel": "إلغاء",
+  "confrim": "تأكيد"
+}
