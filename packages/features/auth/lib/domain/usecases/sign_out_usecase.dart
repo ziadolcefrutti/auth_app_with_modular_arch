@@ -1,4 +1,3 @@
-
 import 'package:auth/domain/repository/auth_repository.dart';
 
 abstract class SignOutUseCase {

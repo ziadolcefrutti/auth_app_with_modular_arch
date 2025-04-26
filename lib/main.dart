@@ -9,13 +9,13 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:splash/splash_module.dart';
 import 'package:auth/auth_module.dart';
 import 'firebase_options.dart';
-import 'service_locator.dart'; // <<<<< Add this
+import 'app/service_locator.dart'; // <<<<< Add this
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
 
-  setupLocator(); 
+  setupLocator();
 
   runApp(const MyApp());
 }

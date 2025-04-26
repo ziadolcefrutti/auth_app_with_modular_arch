@@ -133,7 +133,7 @@ class _LoginViewState extends State<LoginPage> {
   }
 
   Widget _buildLoginButton() {
-    return   Consumer<AuthsViewModel>(
+    return Consumer<AuthsViewModel>(
       builder:
           (context, value, child) => CustomButton(
             title: AppLocalizations.of(context)?.login ?? '',

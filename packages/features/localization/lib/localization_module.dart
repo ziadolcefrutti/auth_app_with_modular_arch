@@ -6,10 +6,10 @@ class LocalizationModule {
   static List<ChangeNotifierProvider> getProviders(getIt) => [];
 
   static List<GoRoute> get routes => [
-        GoRoute(
-          path: '/langauge',
-          name: 'langauge',
-          builder: (context, state) => const LanguageSelectPage(),
-        ),
-      ];
+    GoRoute(
+      path: '/langauge',
+      name: 'langauge',
+      builder: (context, state) => const LanguageSelectPage(),
+    ),
+  ];
 }

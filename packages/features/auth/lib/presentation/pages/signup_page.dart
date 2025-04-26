@@ -166,7 +166,7 @@ class _SignUpViewState extends State<SignUpPage> {
   }
 
   Widget _buildSignUpButton() {
-    return  Consumer<AuthsViewModel>(
+    return Consumer<AuthsViewModel>(
       builder:
           (context, value, child) => CustomButton(
             title: AppLocalizations.of(context)?.signUp ?? '',
